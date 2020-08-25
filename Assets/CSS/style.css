@@ -1,0 +1,38 @@
+.float-left {
+  float: left;
+}
+.about-me {
+  font-family: serif;
+  font-size: 28px;
+  text-transform: capitalize;
+  color: lightseagreen;
+  font-weight: bolder;
+}
+.username {
+  color: snow !important;
+  font-family: serif;
+  background-color: lightseagreen;
+  font-weight: 600 !important;
+}
+.backround-color-offwhite {
+  background-color: rgb(236, 237, 238);
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(75, 73, 73);
+  color: white;
+  text-align: center;
+}
+.footer > div {
+  background-color: lightseagreen;
+  height: 5px;
+  /* top: 0; */
+  /* position: absolute; */
+}
+
+.form-submit-button {
+  background-color: lightseagreen;
+}
